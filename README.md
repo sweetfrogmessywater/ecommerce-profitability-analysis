@@ -46,10 +46,16 @@ SQL (DBeaver) для глубокой трансформации данных и
 
 ## 📈 Визуализации проекта (Python / Seaborn)
 1. **Распределение скидок:** Violin plot, демонстрирующий разрыв промо-нагрузки в убыточных сделках.
+<img width="1000" height="680" alt="image" src="https://github.com/user-attachments/assets/00536b89-1fe8-4c58-a521-43cd63087e86" />
 2. **Маржинальность по сегментам:** Barplot, визуализирующий просадку маржи у VIP-клиентов.
-3. **Статусы заказов по каналам:** Countplot с разбивкой по статусам `Completed`, `Pending`, `Cancelled`, `Returned`.
-4. **Сравнение LTV по сегментам:** Столбчатая диаграмма с управляемым масштабом осей (`ylim`) и точными подписями значений.
-5. **Retention по каналам:** Соотношение новых и повторных покупателей.
+3. <img width="1000" height="681" alt="image" src="https://github.com/user-attachments/assets/170a2a5b-6400-426f-b1aa-ada3c985397e" />
+4. **Статусы заказов по каналам:** Countplot с разбивкой по статусам `Completed`, `Pending`, `Cancelled`, `Returned`.
+5. <img width="1200" height="681" alt="image" src="https://github.com/user-attachments/assets/fbc8238c-433e-46d4-bfb0-0f43a1059562" />
+6. **Сравнение LTV по сегментам:** Столбчатая диаграмма с управляемым масштабом осей (`ylim`) и точными подписями значений.
+7. <img width="1001" height="686" alt="image" src="https://github.com/user-attachments/assets/4156908f-ece7-4a0f-b331-ca3f3334061f" />
+8. **Retention по каналам:** Соотношение новых и повторных покупателей.
+9. <img width="999" height="679" alt="image" src="https://github.com/user-attachments/assets/25e7aa06-14b2-44f7-84df-b9dd94c5d850" />
+
 
 ## 🎯 Бизнес-выводы и рекомендации
 
